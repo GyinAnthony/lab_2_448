@@ -1,2 +1,3 @@
-A long time ago, in a galaxy far, far away (Second Test) (Testing on Branch)
-Master brach shold causae an issue
+A long time ago, in a galaxy far, far away (Second Test) (Testing on Branch) .. ye
+Causing a merge conflict
+
